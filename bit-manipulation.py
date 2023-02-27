@@ -1,6 +1,8 @@
 
 
+
 #sample text for fun!!!!
+
 import math
 
 
@@ -52,4 +54,8 @@ def reverse(x: int) -> int:
         res= (res*10) + digit   #this ensures that we append new digits into result properly
     return res   
 
+<<<<<<< HEAD
 reverse(123)
+=======
+reverse(123)
+>>>>>>> 5e5116a43dd4a6d9be66b8b157a2efd4fdc112f7
