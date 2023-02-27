@@ -1,7 +1,7 @@
 
 
 
-#sample text for fun!!!!
+#sample text for fun!
 
 import math
 
