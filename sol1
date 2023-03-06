@@ -3,9 +3,12 @@ Ohh No!
 New changes to fix bug in patch! HAHA...
 
 
-
+#Some text i as junior dev added for understanding for all the devs who will
+#work on it on future endeavors
 if(some logic)
 	then run this <some-logic>
 else :
 	then run this <some-logic>
 
+
+#also Added TODO list on what to do next!!
