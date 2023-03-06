@@ -3,8 +3,7 @@ Ohh No!
 New changes to fix bug in patch! HAHA...
 
 
-#Some text i as junior dev added for understanding for all the devs who will
-#work on it on future endeavors
+#some comments on what this logic does, this will help other developers to understand this code better
 if(some logic)
 	then run this <some-logic>
 else :
